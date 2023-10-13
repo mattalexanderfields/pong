@@ -1,6 +1,7 @@
 --
 -- Variables
 --
+-- Testing git push changes to remote
 
 -- global (accessible from other Lua modules)
 hello = 'hello'

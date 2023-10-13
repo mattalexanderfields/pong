@@ -1,7 +1,7 @@
 --
 -- Variables
 --
--- Testing git push changes to remote
+-- removed test text and replaced it with this other needless test text
 
 -- global (accessible from other Lua modules)
 hello = 'hello'
